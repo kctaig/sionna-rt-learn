@@ -1,0 +1,3 @@
+,site_id,cell_id,cell_name,lon,lat,x,y,antenna_height,azimuth,antenna,polarization_type,total_loss,m_tilt,e_tilt,rs_power(dBm),frequency(MHz),range(m),resolution(m),power_ratio,cx,cy
+10960,2604623,12,GGH151307DR1_三庄邱家庄-三庄太阳山(三庄西王家村PL)5G,119.06528,35.54153,0,0,292,0,pRRU5754R_700M.msi,cross,0,3,6,10,700,2000,19,1,687223.4432,3935061.34
+10961,2604623,12,GGH151307DR1_三庄邱家庄-三庄太阳山(三庄西王家村PL)5G,119.06528,35.54153,0,0,292,240,pRRU5754R_700M.msi,cross,0,3,6,10,700,2000,19,1,687223.4432,3935061.34

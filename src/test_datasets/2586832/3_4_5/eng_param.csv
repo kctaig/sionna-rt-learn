@@ -1,0 +1,4 @@
+,site_id,cell_id,cell_name,lon,lat,x,y,antenna_height,azimuth,antenna,polarization_type,total_loss,m_tilt,e_tilt,rs_power(dBm),frequency(MHz),range(m),resolution(m),power_ratio,cx,cy
+6484,2586832,3,GLH1533904H1_5G,119.5305556,35.35083333,0,0,30,40,pRRU5754R_2.6G.msi,cross,0,3,6,10,2600,2000,19,1,729952.361,3914889.493
+6485,2586832,4,GLH1533905H1_5G,119.5305556,35.35083333,0,0,30,130,pRRU5754R_2.6G.msi,cross,0,3,6,10,2600,2000,19,1,729952.361,3914889.493
+6486,2586832,5,GLH1533906H1_5G,119.5305556,35.35083333,0,0,30,270,pRRU5754R_2.6G.msi,cross,0,3,6,10,2600,2000,19,1,729952.361,3914889.493

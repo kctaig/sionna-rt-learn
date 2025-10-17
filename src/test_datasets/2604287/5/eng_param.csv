@@ -1,0 +1,3 @@
+,site_id,cell_id,cell_name,lon,lat,x,y,antenna_height,azimuth,antenna,polarization_type,total_loss,m_tilt,e_tilt,rs_power(dBm),frequency(MHz),range(m),resolution(m),power_ratio,cx,cy
+9923,2604287,5,GLH1534696R1_开发区科巢制药-奎山敬老院(奎山付疃村西PL)5G,119.41364,35.35771,0,0,38,0,pRRU5754R_2.6G.msi,cross,0,3,6,10,2600,2000,19,1,719307.4581,3915386.922
+9924,2604287,5,GLH1534696R1_开发区科巢制药-奎山敬老院(奎山付疃村西PL)5G,119.41364,35.35771,0,0,38,120,pRRU5754R_2.6G.msi,cross,0,3,6,10,2600,2000,19,1,719307.4581,3915386.922

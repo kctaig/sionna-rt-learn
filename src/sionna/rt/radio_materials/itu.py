@@ -16,7 +16,7 @@ from typing import Tuple
 # Structure :
 #   material_name: { (min_freq [GHz], max_freq [GHz]): (a, b, c, d) }
 ITU_MATERIALS_PROPERTIES = {
-    "concrete"          :   { (1., 100.)    :   (5.24, 0.0, 0.0462, 0.7822) },
+    "concrete"          :   { (0.1, 100.)    :   (5.24, 0.0, 0.0462, 0.7822) },
 
     "brick"             :   { (1., 40.)     :   (3.91, 0.0, 0.0238, 0.16)   },
 
@@ -42,7 +42,7 @@ ITU_MATERIALS_PROPERTIES = {
 
     "very_dry_ground"   :   { (1.0, 10.)    :   (3.0, 0.0, 0.00015, 2.52) },
 
-    "medium_dry_ground" :   { (1.0, 10.)    :   (15., -0.1, 0.035, 1.63) },
+    "medium_dry_ground" :   { (0.1, 10.)    :   (15., -0.1, 0.035, 1.63) },
 
     "wet_ground"        :   { (1.0, 10.)    :   (30., -0.4, 0.15, 1.30) }
 }

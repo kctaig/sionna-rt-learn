@@ -1,0 +1,20 @@
+<scene version="3.0.0">
+    <bsdf type="twosided" id="itu_medium_dry_ground">
+		<bsdf type="diffuse">
+			<rgb value="1, 0, 0" name="reflectance"/>
+		</bsdf>
+	</bsdf>
+    <bsdf type="twosided" id="itu_concrete">
+		<bsdf type="diffuse">
+			<rgb value="0.239479, 1, 1" name="reflectance"/>
+		</bsdf>
+	</bsdf>
+    <shape type="obj" id="mesh-medium_dry_ground">
+        <string name="filename" value="model/medium_dry_ground_meshes.obj"/>
+         <ref id = "itu_medium_dry_ground" name="bsdf"></ref>
+    </shape>
+    <shape type="obj" id="mesh-building">
+        <string name="filename" value="model/building_meshes.obj"/>
+         <ref id = "itu_concrete" name="bsdf"></ref>
+    </shape>
+</scene>

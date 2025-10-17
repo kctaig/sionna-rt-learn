@@ -1,0 +1,17 @@
+id,relative_permittivity,conductivity
+concrete,5.24,0.091631165
+brick,3.91,0.02737857
+plasterboard,2.73,0.019347613
+wood,1.99,0.012011805
+glass,6.31,0.011629403
+ceiling board,1.48,0.00281916
+chipboard,2.58,0.042956066
+plywood,2.71,0.33
+marble,7.074,0.012374121
+metal,1,107
+very_dry_ground,3,0.001362146
+medium_dry_ground,13.74263889,0.145818413
+wet_ground,21.1366793,0.468129353
+air,1,0
+building,1,0.0001
+
